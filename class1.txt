@@ -1,0 +1,24 @@
+Salesforce URL  : 
+---------------------
+1. login.salesforce.com - Dev Account / Production Account
+2. test.salesforce.com  - Sandbox 
+
+
+Check Salesforce Edition - Setup -> Company Information
+
+
+Database - 
+Table - Object
+Column - Field
+Row - Record
+
+
+Standard Object - Predefined object provided by salesforce for the particular cloud
+Account - Account
+
+Custom Object :  User Defiend Object 
+Book - Book__c
+		
+		
+		
+001-5g00000AkZTh-AAN
